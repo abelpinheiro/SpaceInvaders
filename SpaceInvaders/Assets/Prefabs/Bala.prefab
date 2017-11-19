@@ -78,8 +78,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2f14cf3d3774c7947b1004e62ccb1e00, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velTiro: 12
-  tempoVida: 1
+  velTiro: 10
+  tempoVida: 2
 --- !u!212 &212591435098027642
 SpriteRenderer:
   m_ObjectHideFlags: 1

@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 13
-  productGUID: 87120ad6f1dde42449d2fe0e3d3759a2
+  productGUID: 205d6306a59916f40ad27c1149de2f9f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -603,8 +603,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: b1f12591-1c69-4771-9a92-70e688a12c56
-  projectName: SpaceInvaders (1)
+  cloudProjectId: 4f05d19b-9d32-4727-ad24-8c18cd49612f
+  projectName: SpaceInvaders
   organizationId: abelpinheiro95
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
