@@ -1,5 +1,5 @@
-# SpaceInvaders (Fotos e video)
-A simple Space Invaders game created on unity
+# SpaceInvaders
+A simple Space Invaders game created on unity which I personally like to call Sicilian Invaders ^~^
 
 
 Esse repositório tem com o intuito apresentar um jogo simples de Space Invaders feito em Unity.
@@ -11,3 +11,5 @@ I created this repository to show you all a simple Space Invaders game created o
 
 
 # Image 
+![Interface inicial do programa ao ser inicializado](http://imageshack.com/a/img922/5689/oHf7AF.png?raw=true "interface inicial")<br/>
+Jogo ao ser inicializado.
