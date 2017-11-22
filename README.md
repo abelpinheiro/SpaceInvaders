@@ -12,5 +12,6 @@ I created this repository to show you all a simple Space Invaders game created o
 
 # Image 
 ![Jogo ao ser inicializado](http://imageshack.com/a/img922/5689/oHf7AF.png?raw=true "interface inicial")<br/>
-Jogo ao ser inicializado.</br>
+Jogo ao ser inicializado.</br></br>
 ![jogo no meio de uma partida](http://imageshack.com/a/img922/9755/xrxrDv.png?raw=true "interface inicial")<br/>
+Jogo no meio de uma partida.
