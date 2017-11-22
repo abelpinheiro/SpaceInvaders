@@ -8,7 +8,7 @@ abaixo segue um video simples do jogo em execução.
 I created this repository to show you all a simple Space Invaders game created on Unity. You can see a little demonstration below.
 
 # video
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=vRddqofyQvQ&feature=youtu.be)
 
 # Image 
 ![Jogo ao ser inicializado](http://imageshack.com/a/img922/5689/oHf7AF.png?raw=true "interface inicial")<br/>
