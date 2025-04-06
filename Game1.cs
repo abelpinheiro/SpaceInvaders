@@ -12,6 +12,7 @@ namespace SpaceInvaders
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
         private Player _player;
+        private Enemy _enemy;
 
         public Game1()
         {
@@ -25,6 +26,7 @@ namespace SpaceInvaders
         protected override void Initialize()
         {
             _player = new Player();
+            _enemy = new Enemy();
             base.Initialize();
         }
 
@@ -33,6 +35,7 @@ namespace SpaceInvaders
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             _player.LoadContent(Content);
+            _enemy.LoadContent(Content);
         }
 
         protected override void Update(GameTime gameTime)
@@ -42,6 +45,7 @@ namespace SpaceInvaders
 
             Debug.WriteLine("update de game1 foi chamado");
             _player.Update(gameTime);
+            _enemy.Update(gameTime);
             base.Update(gameTime);
         }
 
@@ -53,6 +57,7 @@ namespace SpaceInvaders
             Debug.WriteLine($"Tamanho da tela: {viewport.Width}x{viewport.Height}");
             _spriteBatch.Begin();
             _player.Draw(_spriteBatch);
+            _enemy.Draw(_spriteBatch);
             _spriteBatch.End();
 
             base.Draw(gameTime);
